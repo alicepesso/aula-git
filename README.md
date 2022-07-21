@@ -1,2 +1,3 @@
 # aula-git
-estudando a plataforma
+estudando a plataforma Oracle
+
